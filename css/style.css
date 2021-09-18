@@ -1,0 +1,22 @@
+.navbar{
+    background-color: antiquewhite;
+}
+.quem-somos{
+    background-color: aquamarine;
+    padding-top: 300px; /*deixar o verde com espaçamento em cima*/
+    padding-bottom: 300px;/*deixar o verde com espaçamento em baixo*/
+}
+.margin{
+    padding-top: 50px ;
+    padding-top: 10px ;
+}
+.parceiros{
+    background-color: #5882FA;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.servicos{
+    background-color: #96e9bb;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
